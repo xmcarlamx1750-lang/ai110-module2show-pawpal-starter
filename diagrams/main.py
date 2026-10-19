@@ -21,3 +21,8 @@ rex.add_task(Task("Brush coat", 15, "medium", "grooming"))
 scheduler = Scheduler(owner)
 scheduler.build_plan()
 print(scheduler.explain_plan())
+
+
+git add .
+git commit -m "feat: implement sorting, filtering, and conflict detection"
+git push origin main
