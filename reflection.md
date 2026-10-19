@@ -5,11 +5,13 @@
 **a. Initial design**
 
 - Briefly describe your initial UML design.
+Track the pet care tasks and considering the constraints.
 - What classes did you include, and what responsibilities did you assign to each?
-
+Task, pet,owner, and scheduler.
 **b. Design changes**
 
 - Did your design change during implementation?
+No
 - If yes, describe at least one change and why you made it.
 
 ---
