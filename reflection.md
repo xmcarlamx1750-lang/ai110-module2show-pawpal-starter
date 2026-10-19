@@ -26,8 +26,9 @@ No
 **b. Tradeoffs**
 
 - Describe one tradeoff your scheduler makes.
+The tasks are sorted by priority then time and how long it would take.
 - Why is that tradeoff reasonable for this scenario?
-
+This would be able to help with which task should be completed first.
 ---
 
 ## 3. AI Collaboration
@@ -35,13 +36,16 @@ No
 **a. How you used AI**
 
 - How did you use AI tools during this project (for example: design brainstorming, debugging, refactoring)?
+I used the AI to design the debugging and more so help navigate.
 - What kinds of prompts or questions were most helpful?
+Adding a line a code to the right file. 
 
 **b. Judgment and verification**
 
 - Describe one moment where you did not accept an AI suggestion as-is.
+If it didn't connect back to what I was trying to answer.
 - How did you evaluate or verify what the AI suggested?
-
+Through also checking the suggestion on what the question is asking.
 ---
 
 ## 4. Testing and Verification
